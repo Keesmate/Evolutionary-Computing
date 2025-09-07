@@ -2,7 +2,6 @@
 # Project Summary
 This project was a collaborative effort to compare two neuroevolutionary techniques for training a generalist agent in the EvoMan framework during the Evolutionary Computing course at the Vrije Universiteit, Amsterdam. The EvoMan framework is a video game environment where a single agent is tasked with defeating eight distinct enemies. We used a neural network to control the agent, with game state sensors as inputs and the agent's actions as outputs. 
 The main goal was to see which algorithm could evolve an agent that would generalize better to enemies it had not seen during training.
-My specific contributions to this project included the development and implementation of the algorithms and hyperparameter tuning.
 A comprehensive report detailing the methodology, results, and discussion can be found in the repository in the ["Report"](/Report) folder.
 
 # Research Question
